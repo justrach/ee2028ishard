@@ -2,7 +2,7 @@ import time
 import streamlit as st
 
 import plotly.express as px
-import main as mainfolder
+import mainfolder as mainfolder
 import matplotlib as plt
 start_button = st.empty()
 placeholder = st.empty()
